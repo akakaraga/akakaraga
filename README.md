@@ -33,7 +33,7 @@
 
 ###
 
-<h4 align="left">I'm from Indonesia<br><br>- 🔭 I’m working as IoT Engineer & Full Stack Developer at Jayla Tech.ID Internship<br>- 📚 I'm currently learning: JS Tech Stack & Machine Learning</h4>
+<h4 align="left">I'm from Indonesia<br><br>- 📚 I'm currently learning: JS Tech Stack & Machine Learning</h4>
 
 ###
 
